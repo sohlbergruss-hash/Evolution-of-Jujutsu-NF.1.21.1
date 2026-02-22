@@ -1,0 +1,13 @@
+{
+  "itemGroup.evolutionofjujutsu": "Example Mod Tab",
+  "block.evolution_of_jujutsu.cursed_energy_block": "Cursed Energy Block",
+  "item.evolution_of_jujutsu.cursed_energy": "Cursed Energy",
+
+  "evolutionofjujutsu.configuration.title": "Evolution Of Jujutsu Configs",
+  "evolutionofjujutsu.configuration.section.evolutionofjujutsu.common.toml": "Evolution Of Jujutsu Configs",
+  "evolutionofjujutsu.configuration.section.evolutionofjujutsu.common.toml.title": "Evolution Of Jujutsu Configs",
+  "evolutionofjujutsu.configuration.items": "Item List",
+  "evolutionofjujutsu.configuration.logDirtBlock": "Log Dirt Block",
+  "evolutionofjujutsu.configuration.magicNumberIntroduction": "Magic Number Text",
+  "evolutionofjujutsu.configuration.magicNumber": "Magic Number"
+}

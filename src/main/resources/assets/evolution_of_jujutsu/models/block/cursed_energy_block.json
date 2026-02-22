@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "evolution_of_jujutsu:block/cursed_energy_block"
+  }
+}
